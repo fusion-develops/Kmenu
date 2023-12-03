@@ -1,5 +1,6 @@
 Fusion = {
     ['Main'] = {
+        keybind = 'K',
         Locations = {
             {coords = vec3(1,1,1), radius = 5}
         },
